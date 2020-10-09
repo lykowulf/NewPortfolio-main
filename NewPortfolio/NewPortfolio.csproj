@@ -81,6 +81,9 @@
     <Content Include="Content\style.css" />
     <Content Include="Images\blog_1.jpg" />
     <Content Include="Images\bug_tracker.jpg" />
+    <Content Include="Images\cat-2.png" />
+    <Content Include="Images\cat-3.jpg" />
+    <Content Include="Images\cat.png" />
     <Content Include="Images\challenge.jpg" />
     <Content Include="Images\challenge1.jpg" />
     <Content Include="Images\fear.jpg" />
@@ -109,14 +112,6 @@
     <Content Include="Images\sum-of-fears.jpg" />
     <Content Include="Images\sunset_hill1.jpg" />
     <Content Include="Images\sunset_hills.jpg" />
-    <Content Include="Images\testimonial-2.jpg" />
-    <Content Include="Images\testimonial-4.jpg" />
-    <Content Include="Images\work-1.jpg" />
-    <Content Include="Images\work-2.jpg" />
-    <Content Include="Images\work-3.jpg" />
-    <Content Include="Images\work-4.jpg" />
-    <Content Include="Images\work-5.jpg" />
-    <Content Include="Images\work-6.jpg" />
     <Content Include="index.html" />
     <Content Include="Content\bootstrap-grid.css" />
     <Content Include="Content\bootstrap-grid.min.css" />
