@@ -85,6 +85,7 @@
     <Content Include="Images\cat.png" />
     <Content Include="Images\challenge.jpg" />
     <Content Include="Images\challenge1.jpg" />
+    <Content Include="Images\favicon-16x16.png" />
     <Content Include="Images\fear.jpg" />
     <Content Include="Images\fizzbuzz-edit.png" />
     <Content Include="Images\fizzbuzz-edit2.png" />
